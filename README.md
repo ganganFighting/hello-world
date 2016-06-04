@@ -1,2 +1,3 @@
 # hello-world
-Start sample
+
+Hi, I'm Channing.
